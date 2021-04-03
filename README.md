@@ -40,6 +40,7 @@ Soy Full Stack Web Developer :computer: y diseñadora grafica :art:, me apasiona
 - <img align="left" alt="Mail" height ="22px" src="https://i.ibb.co/vhw2gM9/mail.png"> gmdreher21@gmail.com
 - <img align="left" alt="Telegram" height ="22px" src="https://i.ibb.co/5F7JZFR/telegram.png"> https://t.me/GabrielaCanela
 
+&nbsp;
 
 ## Proyectos
 
@@ -48,3 +49,5 @@ Soy Full Stack Web Developer :computer: y diseñadora grafica :art:, me apasiona
   <a><img src="https://i.ibb.co/Lx4ZYR5/02.png"></a>
   <a><img src="https://i.ibb.co/g6Z6yCW/03.png"></a>
 </p>
+&nbsp;
+
