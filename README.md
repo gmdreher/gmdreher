@@ -50,9 +50,10 @@ Soy Full Stack Web Developer :computer: y diseñadora grafica :art:, me apasiona
   <a><img src="https://i.ibb.co/g6Z6yCW/03.png" width="300"></a>
 </p>
 
-+ El potrero 
+
++ Fundación el Potrero
 
 
-markdown">[![ScreenShot](https://i.ibb.co/9N6yBvL/05.png)](https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view)
+[![ScreenShot](https://i.ibb.co/9N6yBvL/05.png)](https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view)
 
 
