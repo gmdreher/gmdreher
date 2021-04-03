@@ -53,4 +53,4 @@ Soy Full Stack Web Developer :computer: y diseñadora grafica :art:, me apasiona
 + El potrero 
 
 <video src="https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view" width="640" height="480" controls ></video>
-
+<object width="425" height="344" data="https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view"></object>
