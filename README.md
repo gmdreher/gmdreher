@@ -43,10 +43,14 @@ Soy Full Stack Web Developer :computer: y diseñadora grafica :art:, me apasiona
 
 ## Proyectos
 
-<a href="https://github.com/gmdreher/Ecommerce-Kitti-s-Shop">Ecommerce Kitti's Shop</a>
++ <a href="https://github.com/gmdreher/Ecommerce-Kitti-s-Shop">Ecommerce Kitti's Shop</a>
 <p>
   <a><img src="https://i.ibb.co/r31zsRw/01.png" width="300"></a>
   <a><img src="https://i.ibb.co/Lx4ZYR5/02.png" width="300"></a>
   <a><img src="https://i.ibb.co/g6Z6yCW/03.png" width="300"></a>
 </p>
+
++ El potrero 
+
+<video src="https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view" width="640" height="480" controls ></video>
 
