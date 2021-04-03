@@ -43,7 +43,9 @@ Soy Full Stack Web Developer :computer: y diseñadora grafica :art:, me apasiona
 
 ## Proyectos
 
-+ <a href="https://github.com/gmdreher/Ecommerce-Kitti-s-Shop">Ecommerce Kitti's Shop</a>
++ <a href="https://github.com/gmdreher/Ecommerce-Kitti-s-Shop">Repo de Ecommerce Kitti's Shop</a> 
++ <a href="https://ecommerce-ft08-g07.vercel.app/">Deploy de Ecommerce Kitti's Shop</a>
+
 <p>
   <a><img src="https://i.ibb.co/r31zsRw/01.png" width="400"></a>
   <a><img src="https://i.ibb.co/Lx4ZYR5/02.png" width="400"></a>
