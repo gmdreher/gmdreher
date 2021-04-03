@@ -54,6 +54,6 @@ Soy Full Stack Web Developer :computer: y diseñadora grafica :art:, me apasiona
 + Fundación el Potrero
 
 
-[![ScreenShot](https://i.ibb.co/9N6yBvL/05.png)](https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view)
+[![Watch the video](https://i.ibb.co/9N6yBvL/05.png)](https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view)
 
 
