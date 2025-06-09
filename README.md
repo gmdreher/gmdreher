@@ -3,7 +3,7 @@
 Soy Frontend Developer :computer: y diseñadora grafica :art:, me apasiona el desarrollo frontend pero me adapto a nuevos desafios :muscle:.
 
 - 🏠 Vivo en Córdoba Argentina...
-- 📝 &nbsp;Ver mi [Curriculum](https://drive.google.com/file/d/1qTHv4CNhPCk2DazeV9r04hH8AbBy0RjT/view?usp=sharing)
+- 📝 &nbsp;Ver mi [Curriculum]()
 
 ## Herramientas de Programación 
 
