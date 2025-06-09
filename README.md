@@ -38,21 +38,4 @@ Soy Frontend Developer :computer: y diseñadora grafica :art:, me apasiona el de
 - <img align="left" alt="Telegram" height ="22px" src="https://i.ibb.co/5F7JZFR/telegram.png"> https://t.me/GabrielaCanela
 
 
-## Proyectos
-
-+ <a href="https://github.com/gmdreher/Ecommerce-Kitti-s-Shop">Repo de Ecommerce Kitti's Shop</a> 
-+ <a href="https://ecommerce-ft08-g07.vercel.app/">Deploy de Ecommerce Kitti's Shop</a>
-
-<p>
-  <a><img src="https://i.ibb.co/r31zsRw/01.png" width="400"></a>
-  <a><img src="https://i.ibb.co/Lx4ZYR5/02.png" width="400"></a>
-  <a><img src="https://i.ibb.co/g6Z6yCW/03.png" width="400"></a>
-</p>
-
-
-+ Fundación el Potrero
-
-
-[![Watch the video](https://i.ibb.co/9N6yBvL/05.png)](https://drive.google.com/file/d/1xzAm4X9jgGhCa5fABlhnbkXqAsI5XEmT/view)
-
 
