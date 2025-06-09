@@ -16,7 +16,6 @@ Soy Frontend Developer :computer: y diseñadora grafica :art:, me apasiona el de
 <a href="https://es.reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="https://i.ibb.co/w6MRByN/React.png"></a>
 <a href="https://es.redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="https://i.ibb.co/wQb4Kc3/Redux.png"></a>
 <a href="https://nodejs.org/es/" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://i.ibb.co/M1ZZGXP/Node-js.png"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="Postgres.js" height ="42px" src="https://i.ibb.co/Qrktykn/Postgres-SQL.png"></a>
 <br/>
 ## Herramientas de Diseño
 
